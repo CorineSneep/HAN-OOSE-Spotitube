@@ -1,0 +1,6 @@
+nl\oose\dea\corine\dao\PlaylistDaoTest.class
+nl\oose\dea\corine\rest\CheckWrongTokenTest.class
+nl\oose\dea\corine\rest\TrackApisTest.class
+nl\oose\dea\corine\rest\playlistApiTest\PlaylistApiGetPlaylistTest.class
+nl\oose\dea\corine\dao\UserDaoTest.class
+nl\oose\dea\corine\rest\LoginApiTest.class
